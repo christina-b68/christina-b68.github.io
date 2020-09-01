@@ -4,7 +4,7 @@
 
 ### Neural Network - Deep learning
 
-[IEEE-Fraud-detection---Vesta](/sample_page)
+[IEEE-Fraud-detection---Vesta](https://github.com/christina-b68/IEEE-Fraud-detection---Vesta)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
