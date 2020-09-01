@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Neural Network - Deep learning
 
-[Project 1 Title](/sample_page)
+[IEEE-Fraud-detection---Vesta](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,18 +12,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
+### Natural Processing Language
 
-- [Project 1 Title](http://example.com/)
+- [How did Twitter react to Covid-19?](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
